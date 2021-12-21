@@ -1,4 +1,4 @@
-import react, { useState } from "react";
+import { useState } from "react";
 import data from "./data.js";
 
 function App() {
